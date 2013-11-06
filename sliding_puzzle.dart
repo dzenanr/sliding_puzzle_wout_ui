@@ -136,6 +136,7 @@ class Puzzle {
     }
   }
 
+  // replace with an optimized version: http://pub.dartlang.org/packages/a_star
   bool exchange() {
     var cell;
     do {
